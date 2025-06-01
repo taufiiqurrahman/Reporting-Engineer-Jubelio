@@ -63,5 +63,5 @@ Di dalam folder `Task5_TAUFIQURRAHMAN_Python_Output`, Anda akan menemukan file-f
 * **Pembuatan Label Pengiriman Fisik:** Skrip ini menghasilkan data yang diperlukan untuk label pengiriman dalam sheet `Shipping_Summary_Data` di file Excel. Untuk membuat label fisik dengan layout "2 Across dan 1 Down" (atau layout lainnya), Anda perlu menggunakan fitur Mail Merge di aplikasi pengolah kata (seperti Microsoft Word atau LibreOffice Writer) dengan menggunakan data dari sheet tersebut sebagai sumbernya.
 
 ---
-*Dibuat oleh TAUFIQURRAHMAN (berdasarkan permintaan pengguna)*
+*Dibuat oleh TAUFIQURRAHMAN*
 *Tanggal: 1 Juni 2025*
